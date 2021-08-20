@@ -1,0 +1,13 @@
+# DO NOT PUT ENVIRONMENT SPECIFIC FILES HERE
+# https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files#configuring-ignored-files-for-all-repositories-on-your-computer
+
+# Common
+*.log
+*.tgz
+
+# Node.js
+node_modules
+
+# Project
+/esm
+/dist

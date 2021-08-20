@@ -1,0 +1,45 @@
+{
+  "name": "@impv/zxcvbn-ts-language-ja",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Japanese language pack for zxcvbn-ts",
+  "keywords": [
+    "zxcvbn",
+    "language",
+    "translation",
+    "japanese"
+  ],
+  "bugs": {
+    "url": "https://github.com/impv/zxcvbn-ts-language-ja/issues"
+  },
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Shota FUJI",
+      "email": "pockawoooh@gmail.com"
+    }
+  ],
+  "files": [
+    "esm"
+  ],
+  "exports": {
+    ".": "./esm/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/impv/zxcvbn-ts-language-ja.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "demo:dev": "vite",
+    "demo:build": "vite build"
+  },
+  "devDependencies": {
+    "@zxcvbn-ts/core": "^1.0.0-beta.0",
+    "@zxcvbn-ts/language-common": "^1.0.0-beta.0",
+    "@zxcvbn-ts/language-en": "^1.0.0-beta.0",
+    "prettier": "^2.3.2",
+    "typescript": "^4.3.5",
+    "vite": "^2.5.0"
+  }
+}
