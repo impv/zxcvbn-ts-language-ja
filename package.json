@@ -20,7 +20,8 @@
     }
   ],
   "files": [
-    "esm"
+    "esm",
+    "README_ja.md"
   ],
   "exports": {
     ".": "./esm/index.js"
@@ -32,7 +33,8 @@
   "scripts": {
     "build": "tsc",
     "demo:dev": "vite",
-    "demo:build": "vite build"
+    "demo:build": "vite build",
+    "prepublishOnly": "pnpm build"
   },
   "devDependencies": {
     "@zxcvbn-ts/core": "^1.0.0-beta.0",
