@@ -1,6 +1,6 @@
 {
   "name": "@impv/zxcvbn-ts-language-ja",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "Japanese language pack for zxcvbn-ts",
   "keywords": [
