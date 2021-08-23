@@ -17,8 +17,8 @@ export const translations: Translations = {
     common: "利用されることの多いパスワードです",
     similarToCommon: "よく利用されるパスワードです",
     wordByItself: "1単語だけだと推測されやすいです",
-    namesByThemselves: "名前だけだと推測されやすいです",
-    commonNames: "一般的な名前は推測されやすいです",
+    namesByThemselves: "人名は推測されやすいです",
+    commonNames: "一般的な人名は推測されやすいです",
     userInputs: "入力した情報に関係する文字列は含めないでください",
   },
   suggestions: {
