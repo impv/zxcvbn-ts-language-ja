@@ -23,6 +23,7 @@
     "esm",
     "README_ja.md"
   ],
+  "main": "./esm/index.js",
   "exports": {
     ".": "./esm/index.js"
   },
