@@ -1,5 +1,7 @@
 # @impv/zxcvbn-ts-language-ja
 
+- [日本語](./README_ja.md)
+
 This is a Japanese language pack for [zxcvbn-ts](https://github.com/zxcvbn-ts/zxcvbn). Currently, this package provides feedbacks translation only.
 
 ## Installation

@@ -1,5 +1,7 @@
 # @impv/zxcvbn-ts-language-ja
 
+- [English](./README.md)
+
 [zxcvbn-ts](https://github.com/zxcvbn-ts/zxcvbn)の日本語パックです。現状は日本語化されたフィードバックメッセージのみ利用できます。
 
 ## インストール方法
